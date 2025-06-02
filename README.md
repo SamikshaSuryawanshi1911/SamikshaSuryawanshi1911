@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samiksha Suryawanshi</h1>
+<h3 align="center">📊 Learning Data Analyst | Python Enthusiast | Excel • SQL • Tableau • Pandas</h3>
 
-<!--
-**SamikshaSuryawanshi1911/SamikshaSuryawanshi1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamikshaSuryawanshi1911&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 🎓 Currently learning **Data Analysis**, with a focus on tools like **Excel, SQL, Python, and Tableau**
+- 💡 Exploring real-world projects like expense trackers, dashboards, and data-driven insights
+- 🧠 Passionate about turning raw data into actionable insights
+- 📈 Interested in Business Intelligence and storytelling with data
+
+---
+
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript  
+- **Visualization:** Tableau, MS Excel  
+- **Databases:** MySQL  
+- **Others:** Git, VS Code, Jupyter Notebook  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamikshaSuryawanshi1911&show_icons=true&theme=chartreuse-dark" alt="Samiksha's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamikshaSuryawanshi1911&theme=chartreuse-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Currently Working On
+
+- 📚 Building projects in Python for data analysis
+- 📊 Creating dashboards and reports using Tableau & Excel
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: samikshasuryawanshi39@gmail.com
+- 🌐 Portfolio: https://www.linkedin.com/in/samiksha-suryawanshi-2b9520280/
+- 📍 Location: India 🇮🇳
+
+---
+
+> 🌟 _“Data is the new oil, but insights are the spark.”_
+
