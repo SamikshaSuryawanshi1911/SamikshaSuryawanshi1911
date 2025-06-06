@@ -9,8 +9,8 @@
 
 ### 🔍 About Me
 
-- 🎓 Currently learning **Data Analysis**, with a focus on tools like **Excel, SQL, Python, and Tableau**
-- 💡 Exploring real-world projects like expense trackers, dashboards, and data-driven insights
+- 🎓 Working with Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn for data analysis
+- 💡 Exploring real-world projects like dashboards, and data-driven insights
 - 🧠 Passionate about turning raw data into actionable insights
 - 📈 Interested in Business Intelligence and storytelling with data
 
