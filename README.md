@@ -18,7 +18,7 @@
 
 ### 🛠️ Tools & Technologies
 
-- **Languages:** Python (Pandas, NumPy), SQL,HTML,CSS,Java,Javascript  
+- **Languages:** Python , SQL, HTML, CSS, Java, Javascript  
 - **Visualization:** Tableau, MS Excel  
 - **Databases:** MySQL  
 - **Others:** Git, VS Code, Jupyter Notebook  
